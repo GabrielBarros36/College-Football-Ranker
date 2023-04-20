@@ -29,5 +29,7 @@ Where P only records wins/losses, R contains the rankings, and B corresponds to 
 
 - Method has more equations (games) than unknown variables (teams), so system tends to be inconsistent. Use Least Squares method to find closest possible vector that satisfies the system.
 
-> Final Form: P^T^PR = P^T^B
+> Final Form: P^T^ PR = P^T^ B
 
+term
+: definition
