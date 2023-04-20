@@ -9,13 +9,4 @@
 
 ## Measurements
 - Think of 3 measurements that you'd think are important for ranking our given dataset
-    1. Wonder if a list works like this
-    2. Testing
-    3. Testing
-        a. Testing
-
-        > indented block quote
-
-> unindented block quote
-
->unindented block quote (no space)
+REgular text
