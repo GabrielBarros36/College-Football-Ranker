@@ -44,37 +44,37 @@ term
 # Results
 
 ## Colley
-   0.868 Florida State      [0] 
-   0.751 Clemson            [0]
-   0.635 Duke               [+4]
-   0.614 Georgia Tech       [-1]
-   0.610 Miami              [+1]
-   0.581 Virginia Tech      [-1]
-   0.505 Syracuse           [+3]
-   0.504 Boston College     [0]
-   0.468 North Carolina     [-5]
-   0.443 Pittsburgh         [-1]
-   0.385 Maryland           [+1]
-   0.340 Wake Forest        [-1]
-   0.149 Virginia           [+1]
-   0.146 NC State           [-1]
+   1. 0.868 Florida State      [0] 
+   2. 0.751 Clemson            [0]
+   3. 0.635 Duke               [+4]
+   4. 0.614 Georgia Tech       [-1]
+   5. 0.610 Miami              [+1]
+   6. 0.581 Virginia Tech      [-1]
+   7. 0.505 Syracuse           [+3]
+   8. 0.504 Boston College     [0]
+   9. 0.468 North Carolina     [-5]
+   10. 0.443 Pittsburgh         [-1]
+   11. 0.385 Maryland           [+1]
+   12. 0.340 Wake Forest        [-1]
+   13. 0.149 Virginia           [+1]
+   14. 0.146 NC State           [-1]
 
 ## Massey
 
-  35.083 Florida State
-  16.845 Clemson
-   7.126 Georgia Tech 
-   2.946 North Carolina 
-   2.790 Virginia Tech
-   0.764 Miami
-   0.408 Duke 
-   0.137 Boston College 
-  -3.514 Pittsburgh
- -10.210 Syracuse 
- -10.703 Wake Forest 
- -11.526 Maryland 
- -14.127 NC State 
- -16.020 Virginia
+  1. 35.083 Florida State
+  2. 16.845 Clemson
+  3. 7.126 Georgia Tech 
+  4. 2.946 North Carolina 
+  5. 2.790 Virginia Tech
+  6. 0.764 Miami
+  7. 0.408 Duke 
+  8. 0.137 Boston College 
+  9. -3.514 Pittsburgh
+  10. -10.210 Syracuse 
+  11. -10.703 Wake Forest 
+  12. -11.526 Maryland 
+  13. -14.127 NC State 
+  14. -16.020 Virginia
 
 ## Real Results
 
