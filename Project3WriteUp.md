@@ -93,3 +93,13 @@ term
   13. Pitt
   14. UVA
 
+# Conclusions
+
+## Model Comparison
+
+The two models were overall very close to each other - 11 out of the 14 teams in the ACC were ranked in the same position or with a difference of one rank. 
+Three teams had a high disparity in their rankings: Duke (4 spots), Syracuse (3 spots), and North Carolina (5 spots). Upon noticing that, I formulated a hypothesis that those teams had won or lost by a high margin. Since Massey's method takes win point differentials into account and Colley's does not, that would justify the disparities in those rankings. 
+I checked on my hypothesis, and indeed those three teams had large losses that Colley's method would not appropriately adjust for, namely Syracuses's 3 - 59 loss against FSU, their 0 - 56 defeat against GATech, 
+
+Other teams experienced blowout losses, namely Wake Forest's 3 - 59 loss to FSU and their 7 - 56 loss against Clemson, UVA's 10 - 59 loss against Clemson, and Clemson's 14 - 51 loss against FSU. 
+
