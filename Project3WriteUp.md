@@ -98,8 +98,10 @@ term
 ## Model Comparison
 
 The two models were overall very close to each other - 11 out of the 14 teams in the ACC were ranked in the same position or with a difference of one rank. 
-Three teams had a high disparity in their rankings: Duke (4 spots), Syracuse (3 spots), and North Carolina (5 spots). Upon noticing that, I formulated a hypothesis that those teams had won or lost by a high margin. Since Massey's method takes win point differentials into account and Colley's does not, that would justify the disparities in those rankings. 
-I checked on my hypothesis, and indeed those three teams had large losses that Colley's method would not appropriately adjust for, namely Syracuses's 3 - 59 loss against FSU, their 0 - 56 defeat against GATech, 
+Three teams had a high disparity in their rankings: Duke (4 spots), Syracuse (3 spots), and North Carolina (5 spots). Upon noticing that, I formulated a hypothesis that those teams had won or lost by a high margin. Since Massey's method accounts for differentials and Colley's does not, that would justify the disparities in those rankings. 
 
-Other teams experienced blowout losses, namely Wake Forest's 3 - 59 loss to FSU and their 7 - 56 loss against Clemson, UVA's 10 - 59 loss against Clemson, and Clemson's 14 - 51 loss against FSU. 
+I checked on my hypothesis, and indeed those three teams had large losses that Colley's method would not appropriately adjust for, namely Syracuses's 3 - 59 loss against FSU, their 0 - 56 defeat against GATech, Duke's 7 - 45 defeat against FSU, and North Carolina's 45 - 14 win against UVA. 
+
+Other teams experienced blowout losses, namely Wake Forest's 3 - 59 loss to FSU and their 7 - 56 loss against Clemson, UVA's 10 - 59 loss against Clemson, and Clemson's 14 - 51 loss against FSU. Wake Forest and UVA were very far down in the rankings to begin with, so it is likely that even Massey's model didn't weigh point differentials heavily enough to sink them further than their W/L record already had. Clemson had multiple games with high point differentials (see previous paragraph) that made their final point differential high. 
+
 
